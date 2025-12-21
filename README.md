@@ -49,6 +49,7 @@ Visualized the data using various plots like heatmap for correlations, count plo
 Saved the cleaned and processed DataFrame to a new CSV file.
 
 
+**Exploratoty Data Analysis :**
 
 **Travel Patterns by Category :**
 
@@ -65,7 +66,7 @@ Saved the cleaned and processed DataFrame to a new CSV file.
 
 **Peak Hours :**
 
-<img width="318" height="183" alt="image" src="https://github.com/user-attachments/assets/64408672-224c-4c8b-b0a9-2f1eaf8f6344" />  <img width="334" height="200" alt="image" src="https://github.com/user-attachments/assets/4f07e94f-4170-497d-8830-df446cdf7c04" />  <img width="262" height="161" alt="image" src="https://github.com/user-attachments/assets/3fa17a6a-b832-4fa6-9314-55f7da7aaab2" />
+<img width="318" height="183" alt="image" src="https://github.com/user-attachments/assets/64408672-224c-4c8b-b0a9-2f1eaf8f6344" />  <img width="318" height="183" alt="image" src="https://github.com/user-attachments/assets/4f07e94f-4170-497d-8830-df446cdf7c04" />  <img width="262" height="183" alt="image" src="https://github.com/user-attachments/assets/3fa17a6a-b832-4fa6-9314-55f7da7aaab2" />
 
 1. On weekdays, peak hours occur between 11:00 AM and 3:00 PM, peaking at 1:00 PM, mainly due to lunch breaks, meetings, and business trips.
 2. On weekends, peak hours occur around 2:00 PM and 6:00 PM.
@@ -77,11 +78,11 @@ Saved the cleaned and processed DataFrame to a new CSV file.
 
 **Trip Efficiency :**
 
-<img width="256" height="230" alt="image" src="https://github.com/user-attachments/assets/de609762-3af7-4084-ab68-8c4acf3d31c9" />  <img width="257" height="225" alt="image" src="https://github.com/user-attachments/assets/8fb078b2-983e-4a7a-a277-657858250246" />
+<img width="256" height="230" alt="image" src="https://github.com/user-attachments/assets/de609762-3af7-4084-ab68-8c4acf3d31c9" />  <img width="256" height="230" alt="image" src="https://github.com/user-attachments/assets/8fb078b2-983e-4a7a-a277-657858250246" />
 
 Weekdays                                                                                                                            Weekends  
-<img width="462" height="129" alt="image" src="https://github.com/user-attachments/assets/26f920f2-3f5b-42d7-a267-bf1067903595" />  <img width="456" height="128" alt="image" src="https://github.com/user-attachments/assets/8dc24196-748b-489e-a3d7-ace660d34652" />
-<img width="476" height="62" alt="image" src="https://github.com/user-attachments/assets/48b7ea3b-3d1b-4ca0-94ad-f05d66507085" />   <img width="478" height="62" alt="image" src="https://github.com/user-attachments/assets/68c445da-0a50-43d4-bb8a-113e1b18d2b6" />
+<img width="462" height="129" alt="image" src="https://github.com/user-attachments/assets/26f920f2-3f5b-42d7-a267-bf1067903595" />  <img width="462" height="129" alt="image" src="https://github.com/user-attachments/assets/8dc24196-748b-489e-a3d7-ace660d34652" />
+<img width="476" height="62" alt="image" src="https://github.com/user-attachments/assets/48b7ea3b-3d1b-4ca0-94ad-f05d66507085" />   <img width="476" height="62" alt="image" src="https://github.com/user-attachments/assets/68c445da-0a50-43d4-bb8a-113e1b18d2b6" />
 
 1. Weekdays and weekends are both predominantly efficient (73%), but weekdays are slightly less efficient (9.2% vs 7.2%).
 2. Weekends have a higher proportion of moderate-efficiency trips (19.8% compared to 18.4% on weekdays).
