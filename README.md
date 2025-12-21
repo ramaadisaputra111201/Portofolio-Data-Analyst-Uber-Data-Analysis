@@ -52,6 +52,12 @@ Saved the cleaned and processed DataFrame to a new CSV file.
 <img width="405" height="237" alt="image" src="https://github.com/user-attachments/assets/551f4ca5-013c-4cd8-ab32-67e9e98523ad" />
 
 Travel Patterns by Category:
+
+<img width="273" height="144" alt="image" src="https://github.com/user-attachments/assets/ade60b82-5f58-49fc-bac2-86bb68d0eb22" /> <img width="508" height="178" alt="image" src="https://github.com/user-attachments/assets/f8459634-09c2-4b02-a68d-8154932de40e" />
+
+
+
+
 1. Uber trips are dominated by the Business category, accounting for 93% of total trips.
 2. The average distance and duration of trips are longer during weekends, especially for personal trips, with an average distance of 44.5 km and an average duration of 31.7 minutes.
 
