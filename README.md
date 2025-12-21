@@ -53,7 +53,7 @@ Saved the cleaned and processed DataFrame to a new CSV file.
 
 Travel Patterns by Category:
 
-<img width="273" height="178" alt="image" src="https://github.com/user-attachments/assets/ade60b82-5f58-49fc-bac2-86bb68d0eb22" /> <img width="508" height="178" alt="image" src="https://github.com/user-attachments/assets/f8459634-09c2-4b02-a68d-8154932de40e" />
+<img width="273" height="188" alt="image" src="https://github.com/user-attachments/assets/ade60b82-5f58-49fc-bac2-86bb68d0eb22" /> <img width="508" height="178" alt="image" src="https://github.com/user-attachments/assets/f8459634-09c2-4b02-a68d-8154932de40e" />
 
 
 
