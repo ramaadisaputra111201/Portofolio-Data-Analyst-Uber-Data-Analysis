@@ -1,8 +1,13 @@
 # Portofolio-Data-Analyst-Uber-Data-Analysis
-
 Uber Ride Data Analysis Project
+
 Project Overview
-This project aims to analyze Uber ride data to understand various aspects of ride usage, such as the distribution of rides across different categories, purposes, months, days, and times. The analysis is visualized using a dashboard to provide insights into ride patterns and help make data-driven decisions.
+Uber is a technology company that provides on-demand transportation services through its app. As a leader in the ride-hailing industry, efficiency and travel experience are key operational focuses. 
+
+The data analysis will be conducted as follows:
+1. Describing general travel patterns using metrics such as total trips, daily average, duration, and distance traveled, based on user category and day of the week (weekday/weekend).
+2. Identifying peak hours to understand service demand patterns.
+3. Evaluating travel efficiency based on average speed to identify potential bottlenecks and congestion.
 
 Files in the Project
 UberDatasetCleaned.csv: The cleaned dataset after preprocessing.
@@ -42,6 +47,33 @@ Visualized the data using various plots like heatmap for correlations, count plo
 
 11. Saving Cleaned Data:
 Saved the cleaned and processed DataFrame to a new CSV file.
+
+
+<img width="405" height="237" alt="image" src="https://github.com/user-attachments/assets/551f4ca5-013c-4cd8-ab32-67e9e98523ad" />
+
+Travel Patterns by Category:
+1. Uber trips are dominated by the Business category, accounting for 93% of total trips.
+2. The average distance and duration of trips are longer during weekends, especially for personal trips, with an average distance of 44.5 km and an average duration of 31.7 minutes.
+
+Action Items for Bussiness Insight:
+1. Maximize campaigns targeting Business customers by offering exclusive business membership programs.
+2. Develop weekend personal trip packages, such as round-trip deals or discounts for long-distance travel.
+3. Cross-selling premium services: for personal trips on weekends that are long distance and duration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Dashboard Insights
