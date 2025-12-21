@@ -49,7 +49,10 @@ Visualized the data using various plots like heatmap for correlations, count plo
 Saved the cleaned and processed DataFrame to a new CSV file.
 
 
-**Exploratoty Data Analysis :**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**Exploratoty Data Analysis**
 
 **Travel Patterns by Category :**
 
