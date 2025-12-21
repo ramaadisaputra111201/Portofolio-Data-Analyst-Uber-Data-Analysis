@@ -49,58 +49,42 @@ Visualized the data using various plots like heatmap for correlations, count plo
 Saved the cleaned and processed DataFrame to a new CSV file.
 
 
-<img width="405" height="237" alt="image" src="https://github.com/user-attachments/assets/551f4ca5-013c-4cd8-ab32-67e9e98523ad" />
 
-Travel Patterns by Category:
+**Travel Patterns by Category :**
 
 <img width="273" height="188" alt="image" src="https://github.com/user-attachments/assets/ade60b82-5f58-49fc-bac2-86bb68d0eb22" /> <img width="508" height="178" alt="image" src="https://github.com/user-attachments/assets/f8459634-09c2-4b02-a68d-8154932de40e" />
-
-
-
 
 1. Uber trips are dominated by the Business category, accounting for 93% of total trips.
 2. The average distance and duration of trips are longer during weekends, especially for personal trips, with an average distance of 44.5 km and an average duration of 31.7 minutes.
 
-Action Items for Bussiness Insight:
+**Action Items for Bussiness Insight:**
 1. Maximize campaigns targeting Business customers by offering exclusive business membership programs.
 2. Develop weekend personal trip packages, such as round-trip deals or discounts for long-distance travel.
 3. Cross-selling premium services: for personal trips on weekends that are long distance and duration
 
 
+**Peak Hours :**
 
+<img width="318" height="183" alt="image" src="https://github.com/user-attachments/assets/64408672-224c-4c8b-b0a9-2f1eaf8f6344" />  <img width="334" height="200" alt="image" src="https://github.com/user-attachments/assets/4f07e94f-4170-497d-8830-df446cdf7c04" />  <img width="262" height="161" alt="image" src="https://github.com/user-attachments/assets/3fa17a6a-b832-4fa6-9314-55f7da7aaab2" />
 
+1. On weekdays, peak hours occur between 11:00 AM and 3:00 PM, peaking at 1:00 PM, mainly due to lunch breaks, meetings, and business trips.
+2. On weekends, peak hours occur around 2:00 PM and 6:00 PM.
+3. Of all days, Friday at 11:00 and 13:00 recorded the highest totals.
 
+**Action Items for Bussiness Insight : **
+1. For drivers: Provide bonus points or incentives for those active during peak hours.
+2. For pricing: Offer discounts before peak hours to balance demand or increase fares during peak times to regulate trip requests.
 
+**Trip Efficiency :**
 
+<img width="256" height="230" alt="image" src="https://github.com/user-attachments/assets/de609762-3af7-4084-ab68-8c4acf3d31c9" />  <img width="257" height="225" alt="image" src="https://github.com/user-attachments/assets/8fb078b2-983e-4a7a-a277-657858250246" />
 
+Weekdays                                                                                                                            Weekends  
+<img width="462" height="129" alt="image" src="https://github.com/user-attachments/assets/26f920f2-3f5b-42d7-a267-bf1067903595" />  <img width="456" height="128" alt="image" src="https://github.com/user-attachments/assets/8dc24196-748b-489e-a3d7-ace660d34652" />
+<img width="476" height="62" alt="image" src="https://github.com/user-attachments/assets/48b7ea3b-3d1b-4ca0-94ad-f05d66507085" />   <img width="478" height="62" alt="image" src="https://github.com/user-attachments/assets/68c445da-0a50-43d4-bb8a-113e1b18d2b6" />
 
-
-
-
-
-
-
-
-
-Dashboard Insights
-The dashboard visualizes key insights from the analysis:
-1. Count of CATEGORY by CATEGORY: Shows the distribution of rides by business and personal categories.
-2. Count of Month by Month: Displays the number of rides each month.
-3. Count of Month and Sum of MILES by Month: Combines the count of rides and the total miles traveled each month.
-4. Count of Day by Day: Shows the distribution of rides across different days of the week.
-5. Count of PURPOSE by PURPOSE and CATEGORY: Displays the purpose of rides and categorizes them by business and personal use.
-6. Sum of MILES by Day Time: Shows the total miles traveled during different times of the day.
-
-Recommendations
-Based on the analysis, the following recommendations are made:
-1. Optimize Ride Allocation During Peak Months.
-2. Target Marketing Campaigns by Purpose.
-3. Improve Services During Peak Hours.
-4. Monitor and Reduce Trip Duration.
-5. Enhance Services in High-Demand Categories.
-6. Seasonal Promotions.
-7. Analyze High-Mileage Trips.
-8. Focus on Popular Routes and Destinations.
-9. Customer Feedback Integration.
-10. Driver Training Programs.
-By implementing these recommendations, Uber can enhance its operational efficiency, improve customer satisfaction, and increase overall ridership.
+1. Weekdays and weekends are both predominantly efficient (73%), but weekdays are slightly less efficient (9.2% vs 7.2%).
+2. Weekends have a higher proportion of moderate-efficiency trips (19.8% compared to 18.4% on weekdays).
+3. Overall, the efficiency pattern remains relatively stable across both day categories.
+4. On weekdays, the highest inefficiency occurs at 13:00 (14.8%) and 16:00 (17.4%), which aligns with peak hours (lunch time and end of workday). The most common destinations are Temporary Sites and Meals/Entertainment, indicating that business-related trips during busy hours are more prone to congestion.
+5. On weekends, inefficiency peaks at 13:00 (23.1%) and 15:00 (14.8%) and is dominated by Errand/Supplies and Meeting trips, suggesting that even though leisure trips increase, business-related travel remains high and becomes a source of inefficient trips.
