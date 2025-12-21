@@ -75,7 +75,7 @@ Saved the cleaned and processed DataFrame to a new CSV file.
 2. On weekends, peak hours occur around 2:00 PM and 6:00 PM.
 3. Of all days, Friday at 11:00 and 13:00 recorded the highest totals.
 
-**Action Items for Bussiness Insight : **
+**Action Items for Bussiness Insight:**
 1. For drivers: Provide bonus points or incentives for those active during peak hours.
 2. For pricing: Offer discounts before peak hours to balance demand or increase fares during peak times to regulate trip requests.
 
@@ -83,7 +83,6 @@ Saved the cleaned and processed DataFrame to a new CSV file.
 
 <img width="256" height="230" alt="image" src="https://github.com/user-attachments/assets/de609762-3af7-4084-ab68-8c4acf3d31c9" />  <img width="256" height="230" alt="image" src="https://github.com/user-attachments/assets/8fb078b2-983e-4a7a-a277-657858250246" />
 
-Weekdays                                                                                                                            Weekends  
 <img width="462" height="129" alt="image" src="https://github.com/user-attachments/assets/26f920f2-3f5b-42d7-a267-bf1067903595" />  <img width="462" height="129" alt="image" src="https://github.com/user-attachments/assets/8dc24196-748b-489e-a3d7-ace660d34652" />
 <img width="476" height="62" alt="image" src="https://github.com/user-attachments/assets/48b7ea3b-3d1b-4ca0-94ad-f05d66507085" />   <img width="476" height="62" alt="image" src="https://github.com/user-attachments/assets/68c445da-0a50-43d4-bb8a-113e1b18d2b6" />
 
