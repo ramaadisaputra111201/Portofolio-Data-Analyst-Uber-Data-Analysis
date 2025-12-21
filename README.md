@@ -18,16 +18,16 @@ Analysis Steps :
 1. Loading the Dataset:
 Loaded the Uber dataset from a CSV file and displayed the first 10 rows to understand its structure.
 
-2.Basic Data Exploration:
+2. Basic Data Exploration:
 Generated summary statistics, concise data summary, checked for missing values, duplicate rows, and unique values in each column.
 
-3.Handling Missing Values:
+3. Handling Missing Values:
 Filled missing values in the 'PURPOSE' column using forward fill method.
 
 4. Converting Date Columns:
 Converted 'START_DATE' and 'END_DATE' columns to datetime format.
 
-5.Extracting Date and Time Components:
+5. Extracting Date and Time Components:
 Extracted date, time, month, and year from 'START_DATE' and 'END_DATE' columns and added these as new columns.
 
 6. Dropping Original Date Columns:
